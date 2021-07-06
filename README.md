@@ -1,4 +1,10 @@
 # python_stock
+
+stock_exploration_portfolio - efficient frontier
+stock_risk_evaluation - beta, sharp raitio etc.
+
+
+
 references 
 
 https://stackoverflow.com/questions/50417234/pandas-get-data-for-the-end-day-of-month
